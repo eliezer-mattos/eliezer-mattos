@@ -3,7 +3,7 @@ Seja muito bem-vindo ao meu perfil !
 Meu nome é Eliezer 😄, moro em São Paulo, e trabalho há 4 anos como desenvolvedor web.
 <br />
 Segue abaixo meus conhecimentos:
-
+<br />
 ### Avançados 🥇
 <a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML" target="_blank">
     <img height="32" src="./logo-html.png" alt="HTML"/>
@@ -75,10 +75,10 @@ Segue abaixo meus conhecimentos:
   <img height="32" src="logo-typescript.png" alt="Python"/>
 </a>
 <br /><br />
-Um pouco mais ...
+Um pouco mais ...<br />
 .🚀🚀🚀 Estudando bastante para evoluir meus conhecimentos.
-⚡ Hobbies: Adoro ver filmes, séries, animes (sou fã de Naruto), amo natureza 🌱 e viajar ✈️.
-
+⚡ Hobbies: Adoro ver filmes, séries, animes (sou fã de Naruto), amo natureza 🌱 e viajar ✈️.<br />
+<br />
 ### Me segue lá:
 <a href="https://www.linkedin.com/in/eliezer-matos-52ab4433/">
   <img alt="Meu linkedin" width="28" src="./logo-linkedin.svg" />
