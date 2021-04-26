@@ -1,13 +1,21 @@
-### Hi there 👋
+Seja muito bem-vindo ao meu perfil !
 
-Here are some ideas to get you started:
+Meu nome é Eliezer 😄, moro em São Paulo, e trabalho há 4 anos como desenvolvedor web, como foco mais no front-end. Estou aprofudando meus conhecimentos em back-end...🚀🚀🚀
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+### Habilidades :computer:
 
+<ul>
+    <li>Avançadas</li>
+    <li>
+        <ul>
+            <li>
+                <a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML">
+                    <img height="32" src="./logo-html.png" alt="HTML"/>
+                </a>              
+            </li>
+            <li>
+            
+            </li>
+        </ul>    
+    </li>
+</ul>
