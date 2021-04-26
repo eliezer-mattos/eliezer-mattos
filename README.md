@@ -1,6 +1,7 @@
 Seja muito bem-vindo ao meu perfil !
 
 Meu nome é Eliezer 😄, moro em São Paulo, e trabalho há 4 anos como desenvolvedor web.
+<br />
 Segue abaixo meus conhecimentos:
 
 ### Avançados 🥇
@@ -73,7 +74,7 @@ Segue abaixo meus conhecimentos:
 <a href="https://www.python.org/">
   <img height="32" src="logo-typescript.png" alt="Python"/>
 </a>
-
+<br /><br />
 Um pouco mais ...
 .🚀🚀🚀 Estudando bastante para evoluir meus conhecimentos.
 ⚡ Hobbies: Adoro ver filmes, séries, animes (sou fã de Naruto), amo natureza 🌱 e viajar ✈️.
