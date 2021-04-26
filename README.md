@@ -19,7 +19,7 @@ Segue abaixo meus conhecimentos:
 </a>
 
 <a href="https://www.php.net/" target="_blank">
-  <img height="32" src="./logo-php.svg" alt="PHP"/>
+  <img height="42" src="./logo-php.svg" alt="PHP"/>
 </a>
 
 <a href="https://www.mysql.com/" target="_blank">
@@ -78,7 +78,7 @@ Segue abaixo meus conhecimentos:
 Um pouco mais ...<br />
 🚀🚀🚀 Estudando bastante para evoluir meus conhecimentos.<br />
 ⚡ Hobbies: Adoro ver filmes, séries, animes (sou fã de Naruto), amo natureza 🌱 e viajar ✈️.
-<br />
+<br /><br />
 ### Me segue lá:
 <br />
 <a href="https://www.linkedin.com/in/eliezer-matos-52ab4433/">
