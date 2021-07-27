@@ -79,8 +79,3 @@ Um pouco mais ...<br />
 🚀🚀🚀 Estudando bastante para evoluir meus conhecimentos.<br />
 ⚡ Hobbies: Adoro ver filmes, séries, animes (sou fã de Naruto), amo natureza 🌱 e viajar ✈️.
 <br /><br />
-### Me segue lá:
-<br />
-<a href="https://www.linkedin.com/in/eliezer-matos-52ab4433/">
-  <img alt="Meu linkedin" width="28" src="./logo-linkedin.svg" />
-</a>
